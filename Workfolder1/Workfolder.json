@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 9,
+  "id": "haunRThl00tr7jJMZSr7Gt",
+  "pages": [
+    {
+      "type": "journey",
+      "id": "wPaDV7kWdQR7RHWAHMtpDn",
+      "name": "Countries"
+    },
+    {
+      "type": "sheet",
+      "id": "EAslgQ8tm3xw3eKdgYz3qp",
+      "name": "Sheet"
+    },
+    {
+      "type": "notebook",
+      "id": "K4tK28yssnkDGO6FQIgELu",
+      "name": "Notebook"
+    }
+  ]
+}

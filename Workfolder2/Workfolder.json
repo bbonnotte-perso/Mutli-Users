@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 9,
+  "id": "Iy7lgdc6GHgJwBxKXYMgNB",
+  "pages": [
+    {
+      "type": "journey",
+      "id": "hHSiA60mcUR8ZdaMDM6znG",
+      "name": "Currencies"
+    },
+    {
+      "type": "sheet",
+      "id": "KIO8e1jnJ6s93jL4bpMBuV",
+      "name": "Sheet"
+    },
+    {
+      "type": "notebook",
+      "id": "CwCuSVXui8lqRg59oTcTRD",
+      "name": "Notebook"
+    }
+  ]
+}

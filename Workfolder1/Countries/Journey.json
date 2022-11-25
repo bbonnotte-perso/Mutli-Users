@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 9,
+  "recipe": [
+    {
+      "id": "BcxGG9T1gHJFsWQgrV1orT",
+      "transform": "IMPORT",
+      "params": {
+        "type": "catalog",
+        "reference": {
+          "database": "rcs_journey",
+          "table": "countries_fkpivlf8ycbfuwaneov3be"
+        },
+        "name": "Countries"
+      }
+    }
+  ],
+  "boundaries": {
+    "server": null
+  }
+}
